@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "The first jest experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx -n --experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mormur/hexlet-jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mormur/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Mormur/hexlet-jest#readme",
+  "author": "Sorokina Ekaterina",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
